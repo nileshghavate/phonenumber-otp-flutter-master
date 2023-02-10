@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234244127651",
+    "project_id": "phone-firebase-a7688",
+    "storage_bucket": "phone-firebase-a7688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234244127651:android:6996a260e0b31b27a57816",
+        "android_client_info": {
+          "package_name": "com.example.phone_otp_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234244127651-1t1aaqu9c8lk2601ljmcv46tcsf30dar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIh8wwihY4AxWGjemF_qVucJFgrb6wAwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234244127651-1t1aaqu9c8lk2601ljmcv46tcsf30dar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
